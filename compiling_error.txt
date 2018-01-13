@@ -1,0 +1,4 @@
+/tmp/cc7TbuA7.o: In function `main':
+prompt.c:(.text+0x29): undefined reference to `readline'
+prompt.c:(.text+0x39): undefined reference to `add_history'
+collect2: error: ld returned 1 exit status
